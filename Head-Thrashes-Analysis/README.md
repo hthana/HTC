@@ -1,2 +1,2 @@
 ﻿# Head Thrash Analysis 
-##  The analysis can be run from the headThrashesCount.m file. 
+#Before running, you need to download the Skeleton toolkit in MATLAB.#  The analysis can be run from the headThrashesCount.p file. 
